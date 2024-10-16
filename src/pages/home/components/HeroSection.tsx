@@ -22,7 +22,7 @@ function HeroSectionExtras () {
 					<path id='curve' d='M 50, 50 m 40, 0 a 40, 40 0 1, 0 -80, 0 a 40, 40 0 1, 0 80, 0'/>
 
 					<text width='0'>
-						<textPath alignmentBaseline='top' xlinkHref='#curve'>Modern . Modern . Minimalist . Modern. Minimalist . </textPath>
+						<textPath alignmentBaseline='before-edge' xlinkHref='#curve'>Modern . Modern . Minimalist . Modern. Minimalist . </textPath>
 					</text>
 				</svg>
 			</div>
