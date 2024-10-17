@@ -17,7 +17,7 @@ export function Navbar () {
 			<div className='nav-items'>
 				<span onClick={() => navigate('/')}>Home</span>
 				<span onClick={() => navigate('/services')}>Sevices</span>
-				<span>About</span>
+				{/*<span>About</span>*/}
 				<span onClick={() => navigate('/projects')}>Projects</span>
 			</div>
 

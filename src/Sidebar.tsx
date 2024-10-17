@@ -23,7 +23,7 @@ export function Sidebar () {
 			<div className='sidebar-cnt'>
 				<div className={pathname == '/' ? 'active' : ''} onClick={() => changePage('/')}>Home</div>
 				<div className={pathname.includes('services') ? 'active' : ''}  onClick={() => changePage('/services')}>Services</div>
-				<div>About</div>
+				{/*<div>About</div>*/}
 				<div className={pathname.includes('projects') ? 'active' : ''}  onClick={() => changePage('/projects')}>Projects</div>
 			</div>
 		</div>
