@@ -1,20 +1,21 @@
 .homepage {
 	width: 100%;
-	padding: 0 4%;
+	/*padding: 0 4%;*/
+	padding-bottom: 40px;
 	display: flex;
 	flex-direction: column;
 	gap: 60px;
-	padding-bottom: 40px;
 }
 
 .hero-sect {
-	width: 100%;
+	width: 92%;
 	height: 480px;
 	background-color: rgb(220, 220, 220);
 	border-radius: 20px;
 	overflow: hidden;
 	position: relative;
 	padding: 40px 60px;
+	margin-left: 4%;
 	display: flex;
 	align-items: flex-end;
 }
@@ -110,6 +111,7 @@
 .first-display {
 	display: flex;
 	flex-direction: column;
+	padding: 0 4%;
 	gap: 60px;
 }
 
@@ -369,6 +371,7 @@
 	display: flex;
 	height: 360px;
 	gap: 40px;
+	padding: 0 4%;
 }
 
 .home-about-img {
@@ -428,6 +431,7 @@
 	flex-direction: column;
 	width: 100%;
 	gap: 40px;
+	padding: 0 4%;
 }
 
 .explore-hdr {

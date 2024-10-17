@@ -7,7 +7,9 @@ import img3 from '/images/images (26).webp'
 import img4 from '/images/images (27).webp'
 import img5 from '/images/images (28).webp'
 
+
 export function Explore () {
+
 	return (
 		<div className='explore'>
 			<div className='explore-hdr'>

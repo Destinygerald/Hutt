@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+	.services {
+
+	}
+
+	.services-banner {
+		height: 220px;
+		font-size: 2.6rem;
+	}
+
+	.services-banner > img {
+		/*height: 100%;*/
+		top: 0;
+	}
+
+	.services-cnt-inner {
+		flex-direction: column;
+	}
+
+	.services-card {
+		width: 100%;
+	}
+}

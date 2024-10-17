@@ -1,8 +1,10 @@
 import './App.css'
 import './App.mobile.css'
-import img1 from '/images/interior2.webp'
+import img1 from '/images/interior2.webp' 
 
 export function Footer () {
+
+
 	return (
 		<div className='footer'>
 			<div className='footer-top'>

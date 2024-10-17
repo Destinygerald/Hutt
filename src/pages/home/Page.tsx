@@ -5,6 +5,7 @@ import { FirstDisplay } from './components/FirstDisplay.tsx'
 import { About } from './components/About.tsx'
 import { Explore } from './components/Explore.tsx'
 
+
 function Page () {
 	return (
 		<div className='homepage'>
